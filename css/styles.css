@@ -34,6 +34,11 @@ nav {
   height: 40px;
   width: 45vw;
 }
+
+.logo_pinterest {
+    color: red;
+}
+
 nav ion-icon {
   width: 7vh;
 }
